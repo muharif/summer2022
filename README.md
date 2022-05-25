@@ -13,7 +13,7 @@ Welcome to your summer 2022 internship!
 
 
 ### R Programming Language
-* [Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf_
+* [Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
 * [Rstudio Cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rstudio-ide.pdf)
 * [Rmarkdown Cheatsheet](https://github.com/rstudio/cheatsheets/blob/main/rmarkdown-2.0.pdf)
 * [R Programming Game for Beginner](https://betabit.wiki/en/)
