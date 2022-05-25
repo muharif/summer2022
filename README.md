@@ -6,7 +6,8 @@ Welcome to your summer 2022 internship!
 
 ### My Previous Lectures
 * [Introduction to Programming, R, statistics](https://kcl2021.sysmedicine.com/)
-* [Omics (including transcriptomics) data analysis](https://sysmedicine.github.io/phd2020/)
+* Transcriptomics Data Analysis [Lecture](https://raw.githubusercontent.com/sysmedicine/phd2020/master/transcriptomics/slides/transcriptomics_phd2020.pptx) [Workshop](https://github.com/sysmedicine/phd2020/tree/master/transcriptomics)
+
 
 ### Reproducible Research
 * [Github Introduction](https://lab.github.com/githubtraining/introduction-to-github)
