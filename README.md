@@ -11,8 +11,8 @@ Welcome to your summer 2022 internship!
 
 
 ## My Previous Lectures
-* [Introduction to Programming, R, statistics](https://kcl2021.sysmedicine.com/)
-* Transcriptomics Data Analysis [Lecture](https://raw.githubusercontent.com/sysmedicine/phd2020/master/transcriptomics/slides/transcriptomics_phd2020.pptx) [Workshop](https://github.com/sysmedicine/phd2020/tree/master/transcriptomics)
+* [Introduction to Programming, R, statistics](https://kcl2021.sysmedicine.com/) @ King's College London, United Kingdom
+* Transcriptomics Data Analysis [Lecture](https://raw.githubusercontent.com/sysmedicine/phd2020/master/transcriptomics/slides/transcriptomics_phd2020.pptx) [Workshop](https://github.com/sysmedicine/phd2020/tree/master/transcriptomics) @ KTH Royal Institute of Technology, Sweden
 
 
 ## Reproducible Research
