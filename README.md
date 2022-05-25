@@ -4,10 +4,10 @@ Welcome to your summer 2022 internship!
 
 ## Reading Materials
 ### Review Papers
-* [Review Papers of Transcriptomics Data Analysis](https://github.com/muharif/summer2022/blob/main/ReadingMaterials/Computational%20methods%20for%20transcriptome.pdf)
+* Review Papers of Transcriptomics Data Analysis [LINK](https://github.com/muharif/summer2022/blob/main/ReadingMaterials/Computational%20methods%20for%20transcriptome.pdf)
 
 ### Research Papers
-* [Transcriptomics Analysis of Myocardial Infarction](* [Review Papers of Transcriptomics Data Analysis](https://github.com/muharif/summer2022/blob/main/ReadingMaterials/Computational%20methods%20for%20transcriptome.pdf))
+* Transcriptomics Analysis of Heart Attack [LINK](https://github.com/muharif/summer2022/blob/main/ReadingMaterials/Integrative%20transcriptomic%20analysis%20of%20tissue-specific%20metabolic%20crosstalk%20after%20myocardial%20infarction.pdf)
 
 
 ## My Previous Lectures
