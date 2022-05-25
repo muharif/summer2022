@@ -1,2 +1,3 @@
-# summer2022
-Repository for summer students 2022 at SFD and LCPTI.
+# Systems Biology Summer Materials 2022 Syllabus
+
+Welcome to your summer 2022 internship!
