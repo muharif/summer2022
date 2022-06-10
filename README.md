@@ -2,7 +2,10 @@
 
 Welcome to your summer 2022 internship!
 
-## Reading Materials
+## Weekly meeting slides
+* [Week 1, 10 June 2022](https://github.com/muharif/summer2022/blob/main/Slide/Week1.pptx)
+
+## Weekly Assignments
 ### Week 2
 Idiopathic Pulmonary Fibrosis:
 * Idiopathic Pulmonary Fibrosis Review [LINK](https://github.com/muharif/summer2022/blob/main/ReadingMaterials/IdiopathicPulmonaryFibrosis.pdf)
@@ -13,7 +16,10 @@ Hermansky-Pudlak Syndrome:
 Systems Biology:
 * Systems and Network-based Approaches to Complex Metabolic Diseases [LINK](https://kth.diva-portal.org/smash/get/diva2:1554002/FULLTEXT01.pdf) (focus on Chapter 1 and "Systems Biology of Complex Diseases" section)
 
+Reproducible Research
+* [Github Introduction](https://lab.github.com/githubtraining/introduction-to-github)
 
+## Other Materials
 ### Extra Review Papers (Might be moved up)
 * Idiopathic Pulmonary Fibrosis (IPF): An Overview [LINK](https://github.com/muharif/summer2022/blob/main/ReadingMaterials/IdiopathicPulmonaryFibrosis.pdf)
 * Review Papers of Transcriptomics Data Analysis [LINK](https://github.com/muharif/summer2022/blob/main/ReadingMaterials/Computational%20methods%20for%20transcriptome.pdf)
@@ -28,11 +34,6 @@ Systems Biology:
 ## My Previous Lectures
 * [Introduction to Programming, R, statistics](https://kcl2021.sysmedicine.com/) @ King's College London, United Kingdom
 * Transcriptomics Data Analysis [Lecture](https://raw.githubusercontent.com/sysmedicine/phd2020/master/transcriptomics/slides/transcriptomics_phd2020.pptx) [Workshop](https://github.com/sysmedicine/phd2020/tree/master/transcriptomics) @ KTH Royal Institute of Technology, Sweden
-
-
-## Reproducible Research
-* [Github Introduction](https://lab.github.com/githubtraining/introduction-to-github)
-
 
 ## R Programming Language
 * [Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
