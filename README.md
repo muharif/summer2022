@@ -3,7 +3,7 @@
 Welcome to your summer 2022 internship!
 
 ## Weekly meeting slides
-* [Week 1, 10 June 2022](https://github.com/muharif/summer2022/blob/main/Slide/Week1.pptx)
+* [Week 1, 10 June 2022](https://github.com/muharif/summer2022/blob/main/WeeklyMeeting/Week1.pptx?raw=true)
 
 ## Weekly Assignments
 ### Week 2
