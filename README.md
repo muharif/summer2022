@@ -4,6 +4,7 @@ Welcome to your summer 2022 internship!
 
 ## Weekly meeting slides
 * [Week 1, 10 June 2022](https://github.com/muharif/summer2022/blob/main/WeeklyMeeting/Week1.pptx?raw=true)
+* [Week 2, 21 June 2022](https://github.com/muharif/summer2022/blob/main/WeeklyMeeting/Week2.pptx?raw=true)
 
 ## Weekly Assignments
 ### Week 2
@@ -19,11 +20,18 @@ Systems Biology:
 Reproducible Research
 * [Github Introduction](https://lab.github.com/githubtraining/introduction-to-github)
 
+### Week 3
+Transcriptomics:
+* Review Papers of Transcriptomics Data Analysis [LINK](https://github.com/muharif/summer2022/blob/main/ReadingMaterials/Computational%20methods%20for%20transcriptome.pdf)
+* Impact of Transcriptomics on Our Understanding of Pulmonary Fibrosis [LINK](https://github.com/muharif/summer2022/blob/main/ReadingMaterials/Impact%20of%20Transcriptomics%20on%20Our%20Understanding%20of%20Pulmonary%20Fibrosis.pdf)
+
+Workshop:
+* Required packages to install via R-Studio [DOWNLOAD](https://raw.githubusercontent.com/sysmedicine/phd2020/master/LabPrep/R_install_pkgs.R)
+* Transcriptomics Data Analysis [Workshop](https://github.com/sysmedicine/phd2020/tree/master/transcriptomics)
+
 ## Other Materials
 ### Extra Review Papers (Might be moved up)
 * Idiopathic Pulmonary Fibrosis (IPF): An Overview [LINK](https://github.com/muharif/summer2022/blob/main/ReadingMaterials/IdiopathicPulmonaryFibrosis.pdf)
-* Review Papers of Transcriptomics Data Analysis [LINK](https://github.com/muharif/summer2022/blob/main/ReadingMaterials/Computational%20methods%20for%20transcriptome.pdf)
-* Impact of Transcriptomics on Our Understanding of Pulmonary Fibrosis [LINK](https://github.com/muharif/summer2022/blob/main/ReadingMaterials/Impact%20of%20Transcriptomics%20on%20Our%20Understanding%20of%20Pulmonary%20Fibrosis.pdf)
 
 ### Research Papers
 * Transcriptomics Analysis of Heart Attack [LINK](https://github.com/muharif/summer2022/blob/main/ReadingMaterials/Integrative%20transcriptomic%20analysis%20of%20tissue-specific%20metabolic%20crosstalk%20after%20myocardial%20infarction.pdf)
@@ -33,7 +41,6 @@ Reproducible Research
 
 ## My Previous Lectures
 * [Introduction to Programming, R, statistics](https://kcl2021.sysmedicine.com/) @ King's College London, United Kingdom
-* Transcriptomics Data Analysis [Lecture](https://raw.githubusercontent.com/sysmedicine/phd2020/master/transcriptomics/slides/transcriptomics_phd2020.pptx) [Workshop](https://github.com/sysmedicine/phd2020/tree/master/transcriptomics) @ KTH Royal Institute of Technology, Sweden
 
 ## R Programming Language
 * [Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
