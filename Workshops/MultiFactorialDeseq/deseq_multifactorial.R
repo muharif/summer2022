@@ -19,3 +19,6 @@ cond1 = 'IPF'
 cond2 = 'Normal'
 res=results(dds,contrast=c(col,cond1,cond2))
 res=data.frame(res)
+
+write.table(res,file='deseq.txt',sep = '\t', na = '',row.names = T,col.names=NA)
+
