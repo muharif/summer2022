@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/rstudio/cheatsheets/main/rstudio-ide.pdf
