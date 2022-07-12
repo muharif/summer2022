@@ -17,9 +17,9 @@ combi_results <- function(folder, padj_thr, significant_minimum = 2){
   results = results[rowSums(results == 0) < dim(results)[2]-significant_minimum,]
 }
 
-folder = 'KEGG'
-padj_thr = 0.05
-significant_minimum = 2
+folder = 'KEGG' ## Change this to the folder name where you store the functional analysis results.
+padj_thr = 0.05 ## Adjust this threshold if you see too many significant terms in your results (aka unreadable)
+significant_minimum = 2 ## This will show only terms that are significant in at least 2 comparisons. You can adjust this, 1 is best so we have the overall view, but sometimes it may results in too many terms
 data = combi_results(folder, padj_thr, significant_minimum)
 
 pheatmap(
