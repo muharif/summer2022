@@ -5,6 +5,7 @@ install.packages("factoextra")
 ## Draw PCA
 library(factoextra)
 library(FactoMineR) 
+
 metadata_file = 'yourmetadata' #adjust this based on your file location
 metadata = read.csv(metadata_file,sep='\t',stringsAsFactors = F,row.names = 1)
 
@@ -20,7 +21,7 @@ fviz_eig(res.pca)
 # Draw the PCA Plot
 fviz_pca_ind(res.pca,
             habillage = as.factor(metadata$disease_state), 
-             palette = c("green", "grey"), # Color, support RGB HEX too
+            palette = c("green", "grey"), # Color, support RGB HEX too
              label = 'none',
             pointsize = 5, # Size
             invisible="quali",
